@@ -15,7 +15,7 @@ Lorien (SAP & IT Recruitment) ⭐⭐⭐</br>
 Michael Page SAP</br>
 Page Personnel SAP</br>
 Robert Walters (SAP)</br>
-Brunel SAP
+- Brunel SAP
 Hays (SAP division)
 Experis (Manpower Group – SAP/IT)
 Randstad Technologies (SAP Practice)
