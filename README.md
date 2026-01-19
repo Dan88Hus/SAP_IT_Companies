@@ -1,20 +1,20 @@
 # SAP_IT_Companies
 ---------------------More international----------------- </br>
-RED Global ⭐⭐⭐
-Energize Group (SAP division) ⭐⭐⭐
-Pertemps ERP ⭐⭐⭐
-Montash (SAP & Cloud) ⭐⭐⭐
-Eursap ⭐⭐⭐
-Next Ventures ⭐⭐⭐
-Hudson Rose ⭐⭐⭐
-Nigel Frank International ⭐⭐⭐
-Computer Futures (SAP desk) ⭐⭐⭐
-TEKsystems (SAP & IT roles) ⭐⭐⭐
-Lorien (SAP & IT Recruitment) ⭐⭐⭐
------------More German dependency------------------------
-Michael Page SAP
-Page Personnel SAP
-Robert Walters (SAP)
+RED Global ⭐⭐⭐</br>
+Energize Group (SAP division) ⭐⭐⭐</br>
+Pertemps ERP ⭐⭐⭐</br>
+Montash (SAP & Cloud) ⭐⭐⭐</br>
+Eursap ⭐⭐⭐</br>
+Next Ventures ⭐⭐⭐</br>
+Hudson Rose ⭐⭐⭐</br>
+Nigel Frank International ⭐⭐⭐</br>
+Computer Futures (SAP desk) ⭐⭐⭐</br>
+TEKsystems (SAP & IT roles) ⭐⭐⭐</br>
+Lorien (SAP & IT Recruitment) ⭐⭐⭐</br>
+-----------More German dependency------------------------</br>
+Michael Page SAP</br>
+Page Personnel SAP</br>
+Robert Walters (SAP)</br>
 Brunel SAP
 Hays (SAP division)
 Experis (Manpower Group – SAP/IT)
