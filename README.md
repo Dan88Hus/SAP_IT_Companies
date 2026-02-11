@@ -1,16 +1,16 @@
 ### SAP_IT_Companies</br>
 ---------------------More international----------------- </br>
-#### RED Global ⭐⭐⭐</br>
-#### Energize Group (SAP division) ⭐⭐⭐</br>
-#### Pertemps ERP ⭐⭐⭐</br>
-#### Montash (SAP & Cloud) ⭐⭐⭐</br>
-#### Eursap ⭐⭐⭐</br>
-#### Next Ventures ⭐⭐⭐</br>
-#### Hudson Rose ⭐⭐⭐</br>
-#### Nigel Frank International ⭐⭐⭐</br>
-#### Computer Futures (SAP desk) ⭐⭐⭐</br>
-#### TEKsystems (SAP & IT roles) ⭐⭐⭐</br>
-#### Lorien (SAP & IT Recruitment) ⭐⭐⭐</br>
+#### RED Global </br>
+#### Energize Group (SAP division)</br>
+#### Pertemps ERP</br>
+#### Montash (SAP & Cloud)</br>
+#### Eursap</br>
+#### Next Ventures</br>
+#### Hudson Rose</br>
+#### Nigel Frank International</br>
+#### Computer Futures (SAP desk)</br>
+#### TEKsystems (SAP & IT roles)</br>
+#### Lorien (SAP & IT Recruitment)</br>
 -----------More German dependency------------------------</br>
 #### Michael Page SAP</br>
 #### Page Personnel SAP</br>
